@@ -4,7 +4,11 @@
  * and open the template in the editor.
  */
 package sqlitesample;
+<<<<<<< Updated upstream
 - Change online
+=======
+
+Change-1
 >>>>>>> Stashed changes
 
 import controller.EmployeeController;
