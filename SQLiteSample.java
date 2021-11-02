@@ -6,11 +6,15 @@
 package sqlitesample;
 <<<<<<< Updated upstream
 - Change online
+<<<<<<< HEAD
 =======
 
 Change-1
 >>>>>>> Stashed changes
 
+=======
+- online-2
+>>>>>>> 83a24659e3415421dadbf9b5c3367542e45f22b1
 import controller.EmployeeController;
 import java.io.IOException;
 import java.util.ArrayList;
