@@ -5,6 +5,7 @@
  */
 package sqlitesample;
 - Change online
+>>>>>>> Stashed changes
 
 import controller.EmployeeController;
 import java.io.IOException;
