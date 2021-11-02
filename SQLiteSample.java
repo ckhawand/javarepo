@@ -5,12 +5,14 @@
  */
 package sqlitesample;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Change online
 <<<<<<< HEAD
 =======
-
-Change-1
+=======
 >>>>>>> Stashed changes
+
+Change-2
 
 =======
 - online-2
